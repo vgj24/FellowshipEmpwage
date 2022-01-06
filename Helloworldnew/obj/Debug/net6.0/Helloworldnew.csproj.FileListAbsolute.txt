@@ -1,0 +1,14 @@
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\Helloworldnew.exe
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\Helloworldnew.deps.json
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\Helloworldnew.runtimeconfig.json
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\Helloworldnew.dll
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\ref\Helloworldnew.dll
+C:\Users\vgj24\source\repos\Helloworldnew\bin\Debug\net6.0\Helloworldnew.pdb
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.dll
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\ref\Helloworldnew.dll
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.pdb
+C:\Users\vgj24\source\repos\Helloworldnew\obj\Debug\net6.0\Helloworldnew.genruntimeconfig.cache
